@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Desktop/grand father"
+		},
+		{
+			"path": "../../Desktop/calculator design"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "new.html"
+	}
+}
