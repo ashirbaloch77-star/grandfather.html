@@ -6,7 +6,7 @@
         .logo{ 
             box-sizing: inherit;
              align-items: first baseline;
-             background-color: #b3d9ff;
+             background-color:#000066 ;
              height:300px;
              width: 240px;;
         }
@@ -16,7 +16,7 @@
             color: #333;
         }
         header {
-            background-color: #b3d9ff;
+            background-color:#000066;
             padding: 20px 0;
             text-align: center;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -46,18 +46,18 @@
         }
         .hero h1 {
             font-size: 42px;
-            color: #004d99;
+            color: #A7BDD9;
             margin-bottom: 15px;
         }
         .hero p {
             font-size: 18px;
-            color: #0066cc;
+            color: #A7BDD9;
             margin-bottom: 30px;
         }
         .btn {
             background-color: #0066cc;
-            color: white;
-            padding: 12px 30px;
+            color: #7471D9;
+            padding: 12px 24px;
             border: none;
             border-radius: 5px;
             font-size: 16px;
