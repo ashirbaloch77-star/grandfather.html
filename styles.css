@@ -7,6 +7,8 @@
             box-sizing: inherit;
              align-items: first baseline;
              background-color: #b3d9ff;
+             height:300px;
+             width: 240px;;
         }
         body {
             font-family: 'Arial', sans-serif;
@@ -19,7 +21,7 @@
             text-align: center;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
-        .logo {
+        .name {
             font-size: 32px;
             font-weight: bold;
             color: #004d99;
@@ -90,9 +92,5 @@
             padding: 20px;
             margin-top: 40px;
         }
- img {  
-    height: 250px;
-    width: 200px;
-     border-radius: 10px;
-      margin-bottom: 20px;
- }
+ 
+    
