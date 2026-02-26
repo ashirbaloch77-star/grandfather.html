@@ -5,10 +5,10 @@
         }
         .logo{ 
             box-sizing: inherit;
-             align-items: first baseline;
+             align-items:top;
              background-color:#000066 ;
-             height:300px;
-             width: 240px;;
+             height:200px;
+             width: 150px;;
         }
         body {
             font-family: 'Arial', sans-serif;
