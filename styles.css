@@ -92,5 +92,10 @@
             padding: 20px;
             margin-top: 40px;
         }
+        .container1 {
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
  
     
