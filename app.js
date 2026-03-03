@@ -1,4 +1,4 @@
-alert ("wallcome to our shop page!");
+alert ("wallcome ASHIR FAGRANCE !");
 
 
 var name = ("mustafa");
