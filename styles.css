@@ -27,6 +27,9 @@
             color: #ffffff;
             font-family: Arial, Helvetica, sans-serif;
         }
+        .name:hover {
+            color: #dfd009;
+        }
         .tagline {
             color: #0066cc;
             font-size: 14px;
