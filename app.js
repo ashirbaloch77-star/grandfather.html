@@ -1,4 +1,4 @@
-alart ("wallcome to our page!");
+alert ("wallcome to our page!");
 
 
 var name = ("mustafa");
