@@ -13,3 +13,4 @@ var multan = "90 + 80";
 var lahore = "70 + 60";
 
 var hadrabad= multan +"70";
+
